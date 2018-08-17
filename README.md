@@ -4,3 +4,6 @@ A simple and experimental Matc3 game project which utilizes Unity's ECS librarie
 **All the animations, audio, fonts, prefabs, scene elements, effect files, manager files, and sprites are taken form the tutorial on https://www.raywenderlich.com/673-how-to-make-a-match-3-game-in-unity** 
 
 **The SpriteInstanceRenderer was adopted from Paul Lavender Jones (@paullj): https://github.com/paullj/unity-ecs-instanced-sprite-renderer**
+
+*User may not forget to change the configuration of Unity to support ECS. 
+As a reminder: Edit>Project Settings>Player>Other Settings > Scripting Runtime 4.x, then Window>Package Manager > Install Entities package*
