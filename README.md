@@ -1,5 +1,5 @@
 # Unity-ECS-Match3Game
-A simple and experimental Matc3 game project which utilizes Unity's ECS libraries and approaches.
+A simple and experimental Match3 game project which utilizes Unity's ECS libraries and approaches.
 
 ECS (Entity Component System) is a novel, data-oriented way of game design. For further information: https://github.com/Unity-Technologies/EntityComponentSystemSamples
 
